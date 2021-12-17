@@ -1,0 +1,4 @@
+name: Waypont
+version: '1.0'
+main: me.loremente.waypont.Waypont
+api-version: 1.18
